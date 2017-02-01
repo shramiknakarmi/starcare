@@ -21,3 +21,7 @@ Route::get('/pages', function () {
 Route::get('/services', function () {
     return view('admin.pages.service_creation');
 });
+
+Route::get('/messages', function () {
+    return view('admin.pages.message_list');
+});

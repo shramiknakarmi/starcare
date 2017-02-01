@@ -85,7 +85,7 @@
                         <!-- /.nav-second-level -->
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-envelope nav_icon"></i>Messages</a>
+                        <a href="{{url('messages')}}"><i class="fa fa-envelope nav_icon"></i>Messages</a>
                     </li>
 
                 </ul>
